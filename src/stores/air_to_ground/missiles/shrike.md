@@ -1,3 +1,4 @@
+
 # AGM-45 Shrike Anti-Radiation Missile
 
 ![agm45](../../../img/agm45.jpg)
@@ -183,3 +184,15 @@ near to the target. A dive angle of 20 degree or more is recommended.
 The following seekerheads can be used to track the corresponding radars:
 
 ![f4_shrike_seekerheads](../../../img/f4_shrike_seeker_table.jpg)
+
+| Seeker RF Guidance                                                    | SA-2    | SA-2 (TR)   | SA-3   | SA-3 (TR)   | SA-6   | SA-6 (TR)  | SA-8   | SA-10   | SA-10 (TR)   | SA-11  | SA-15   |
+|:----------------------------------------------------------------------|:-------:|:----------:|:------:|:----------:|:------:|:---------:|:------:|:-------:|:----------:|:------:|:-------:|
+|Mk 22 ||:heavy_check_mark:|
+|Mk 23||:heavy_check_mark:||||||:heavy_check_mark:|
+|Mk 24-5||:heavy_check_mark:|
+|Mk 24-34||:heavy_check_mark:||||||:heavy_check_mark:|
+|Mk 25||:heavy_check_mark:|||:heavy_check_mark:||||||:heavy_check_mark:|
+|Mk 36||||:heavy_check_mark:||:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|
+|Mk 37|:heavy_check_mark:||:heavy_check_mark:|
+|Mk 49 Mod 1||||:heavy_check_mark:||:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|Mk 50||||||||:heavy_check_mark:||:heavy_check_mark:|
